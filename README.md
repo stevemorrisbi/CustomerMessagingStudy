@@ -1,4 +1,4 @@
-# Customer Messaging Study - under development
+# Customer Messaging Study - eCommerce
 ### Analysing and presenting 6 months of customer messaging data to answer the question - Do customers who message purchase items?
 
 ### This study was conducted in order to develop an automation strategy for an online business. 
